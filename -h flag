@@ -1,0 +1,10 @@
+//flags
+
+./your_script.sh -h
+
+Use the -h option to display a help message that provides a brief overview of the script's usage, including valid input formats and examples. This is useful for new users who want to quickly understand how to use the script.
+
+
+This command will output instructions on entering hexadecimal values and examples of valid inputs.
+
+
